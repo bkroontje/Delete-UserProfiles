@@ -12,7 +12,6 @@ How to Use: 1. Open powershell
             3. Kiosk machine will reboot to clear logged in users
             4. Script will then run through and clear all user accounts except Public, and Admin
 
-Notes: Script occassionally gets hung up on hard to delete user accounts. If this happens stop the script and restart it.
        
 
 
